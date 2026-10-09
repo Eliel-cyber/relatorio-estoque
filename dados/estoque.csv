@@ -1,0 +1,11 @@
+sku,produto,saldo_sistema,contagem_fisica,estoque_minimo,custo_unitario
+CAP-001,Capacete Esportivo Preto M,12,12,5,189.90
+CAP-002,Capacete Esportivo Branco G,8,6,5,189.90
+LUV-010,Luva de Couro Tam. P,25,25,10,49.90
+LUV-011,Luva de Couro Tam. M,4,4,10,49.90
+JAQ-020,Jaqueta Impermeavel M,7,9,3,259.00
+BOT-030,Bota Cano Alto 41,3,3,4,329.00
+OLE-040,Oleo Lubrificante 1L,40,37,15,32.50
+CAD-050,Cadeado Antifurto,15,15,5,79.90
+VIS-060,Viseira Fume Universal,0,1,3,59.90
+PNE-070,Camara de Ar Aro 18,22,22,8,27.90
