@@ -1,0 +1,13 @@
+pedido,data,sku,quantidade,valor_unitario,canal,status
+1001,2026-09-01,CAP-001,1,249.90,Mercado Livre,Faturado
+1002,2026-09-01,LUV-010,2,69.90,Mercado Livre,Faturado
+1003,2026-09-02,OLE-040,3,44.90,Loja Propria,Faturado
+1004,2026-09-02,JAQ-020,1,349.00,Mercado Livre,Cancelado
+1005,2026-09-03,BOT-030,1,429.00,Mercado Livre,Faturado
+1006,2026-09-03,CAD-050,1,109.90,Loja Propria,Pendente
+1007,2026-09-04,VIS-060,2,79.90,Mercado Livre,Pendente
+1008,2026-09-04,CAP-002,1,249.90,Mercado Livre,Faturado
+1009,2026-09-05,LUV-011,5,69.90,Mercado Livre,Pendente
+1010,2026-09-05,PNE-070,4,39.90,Loja Propria,Faturado
+1011,2026-09-06,OLE-040,2,44.90,Mercado Livre,Devolvido
+1012,2026-09-06,CAP-001,2,249.90,Loja Propria,Faturado
